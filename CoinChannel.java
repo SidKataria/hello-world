@@ -1,6 +1,6 @@
 package org.lsmr.vending.hardware;
 
-import org.lsmr.vending.Coin;
+import org.lsmr.vending.Coina;
 
 /**
  * Represents a simple device (like, say, a tube) that allows coins to move
